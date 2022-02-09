@@ -3,7 +3,7 @@
 ...
 
 ## Project description
-<p>Subject document of the project: <a href="pipex_subject" target="_blank">libft</a></p>
+<p>Subject document of the project: <a href="pipex_subject" target="_blank">Pipex</a></p>
 ...
 
 ### Norm writing
